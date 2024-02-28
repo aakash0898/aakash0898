@@ -2,10 +2,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakash0898&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakash0898&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash0898&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div>-->
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aakash0898&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aakash0898&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash0898&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 
@@ -41,14 +47,17 @@
 
 ###
 
-<br clear="both">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aakash0898&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br clear="both" >
 
 <img src="https://raw.githubusercontent.com/aakash0898/aakash0898/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <img height="200" src="https://media.giphy.com/media/f3KwliaH4MLtli8z7D/giphy.gif?cid=790b7611zyygf9mx4hd4ctqp18uy2xcgyp8jf2r6mwmzpuxv&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+</div>-->
 
 ###
