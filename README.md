@@ -52,6 +52,18 @@
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aakash0898&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/aakash0898/aakash0898/output/snake.svg" alt="Snake animation" />
